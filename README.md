@@ -6,9 +6,9 @@ Aspiring Frontend heavy full-stack developer with 4.5+ years of experience in cr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hashim-aslam-b39925133/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@hashim20a) 
 
 🌱 I’m currently learning
- - # Advance solidity patterns 
- - # Researching and Testing React 18 features
- - More on to GraphQL
+ - ### Advance solidity patterns 
+ - ### Researching and Testing React 18 features
+ - ### More on to GraphQL
 
 
 # 💻 Tech Stack:
@@ -21,7 +21,8 @@ Aspiring Frontend heavy full-stack developer with 4.5+ years of experience in cr
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+ 
+ 
 <!--
 **hashimaslam/hashimaslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
