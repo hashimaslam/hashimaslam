@@ -1,11 +1,13 @@
 # 💫 About Me:
 Aspiring Frontend heavy full-stack developer with 4.5+ years of experience in creating, converting, optimizing, and shipping software products using Javascript, React.js, Redux, and Node.js.
 
+## Detailed CV
+[![](https://docs.google.com/document/d/1aCHMEKUk3QVPXC00r1yJAGKJnOiE8Ac3_ugmnEZvLKY/edit?usp=sharing)]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hashim-aslam-b39925133/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@hashim20a) 
 
-🌱 I’m currently learning
+## 🌱 I’m currently learning
  - ### Advance solidity patterns 
  - ### Researching and Testing React 18 features
  - ### More on to GraphQL
