@@ -9,8 +9,9 @@ https://docs.google.com/document/d/1aCHMEKUk3QVPXC00r1yJAGKJnOiE8Ac3_ugmnEZvLKY/
 
 ## 🌱 I’m currently learning
  - ### Advance solidity patterns 
- - ### Researching and Testing React 18 features
- - ### More on to GraphQL
+ - ### Researching and Testing React 18RC features like server components, concurrent feature with suspese and automatic batching
+ - ### More on to GraphQL 
+ - ### More on to D3.js
 
 
 # 💻 Tech Stack:
