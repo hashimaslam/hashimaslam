@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Aspiring Frontend heavy full-stack engineer with 4.5+ years of experience in creating, converting, optimizing, and shipping software products using ## Javascript, React.js, Redux, and Node.js.
+## Hello 👋, I'm a senior full-stack blockchain engineer with 5.5+ years of experience in creating, optimizing, and shipping software products using ## Typescript, React.js, Redux, and Node.js.
 
 ## Detailed CV
 https://docs.google.com/document/d/1aCHMEKUk3QVPXC00r1yJAGKJnOiE8Ac3_ugmnEZvLKY/edit?usp=sharing
