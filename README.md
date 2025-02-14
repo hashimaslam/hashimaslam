@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello 👋, I'm a senior full-stack blockchain engineer with 6+ years of experience in creating, optimizing, and shipping software products using ## Typescript,Rust, React.js, Redux, and Node.js.
+## Hello 👋, I'm a senior full-stack blockchain engineer with 6+ years of experience in creating, optimizing, and shipping software products using ## Typescript, Rust, Go, React.js, Redux, and Node.js.
 
 ## Detailed CV
 [https://docs.google.com/document/d/1aCHMEKUk3QVPXC00r1yJAGKJnOiE8Ac3_ugmnEZvLKY/edit?usp=sharing](https://drive.google.com/file/d/11eoGG1AQUQkg-R3OpycfQAAW0fD3jDlF/view?usp=sharing)
